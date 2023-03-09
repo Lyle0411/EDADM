@@ -1,0 +1,1 @@
+{'time_search_train': [270.58188581466675, 761.4270384311676, 233.1839771270752], 'base_MRE': 37.567, 'base_R2': 82.109, 'code_MRE': 118.265, 'code_R2': 100.197, 'diff_MRE': 95.785, 'diff_R2': 104.386, 'lambda': 0.9, 'ensem_MRE': 40.597, 'ensem_R2': 81.267, 'stack_MRE': 37.502, 'stack_R2': 82.112, 'Increase_ratio': 0.002}
